@@ -1,0 +1,13 @@
+{
+  "name": "com.naverlabs.votsdk",
+  "version": "0.9.0",
+  "displayName": "VOTSDK",
+  "description": "ARC eye의 VOT api를 Unity에서 쉽게 사용할 수 있도록 하는 패키지입니다.",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  },
+  "author": {
+    "name": "NAVER LABS"
+  }
+}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 637fdc9a7940945749614f7cebd12344, type: 3}
+  m_Name: VOTSDKSettings_Rookie
+  m_EditorClassIdentifier: 
+  m_URLList:
+  - m_Name: Rookie
+    m_InvokeUrl: https://api-arc-eye.ncloud.com/vot/v1/325/9e11c362bc3d3572970b973d5cd86c073da358b6f9bceaa3be65d1a6487f8819/detect
+    m_SecretKey: UWFEZXBycU1CV1N0UUF6cmJLTkVYUHZtWnhMR29HTVY=
+  m_RequestInterval: 500
+  m_PoseFilterCapacity: 1
+  m_ShowVOTPose: 0
+  m_LogLevel: 1
