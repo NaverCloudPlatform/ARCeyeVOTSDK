@@ -1,6 +1,6 @@
 {
   "name": "com.naverlabs.votsdk",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "displayName": "VOTSDK",
   "description": "ARC eye의 VOT api를 Unity에서 쉽게 사용할 수 있도록 하는 패키지입니다.",
   "unity": "2021.3",
@@ -9,5 +9,23 @@
   },
   "author": {
     "name": "NAVER LABS"
-  }
+  },
+  "documentationUrl": "https://ar.naverlabs.com/docs/votsdk",
+  "samples": [
+    {
+      "displayName": "Starter",
+      "description": "A simple example of how to use VOTSDK.",
+      "path": "Samples~/Starter"
+    },
+    {
+      "displayName": "ARFoundation Demo",
+      "description": "An example of how to use VOTSDK with ARFoundation.",
+      "path": "Samples~/ARFoundation"
+    },
+    {
+      "displayName": "ARDataset Demo",
+      "description": "An example of how to use VOTSDK with ARDataset.",
+      "path": "Samples~/ARDataset"
+    }
+  ]
 }

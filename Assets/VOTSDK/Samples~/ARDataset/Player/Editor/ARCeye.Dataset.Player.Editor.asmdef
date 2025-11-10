@@ -1,0 +1,31 @@
+{
+    "name": "ARCeye.Dataset.Decoder.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Unity.XR.ARFoundation",
+        "Unity.InputSystem",
+        "ARCeye.Dataset.Decoder"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.xr.arfoundation",
+            "expression": "5.0.0",
+            "define": "ARFOUNDATION_VERSION_5"
+        },
+        {
+            "name": "com.unity.xr.arfoundation",
+            "expression": "1.0.0",
+            "define": "ARFOUNDATION"
+        }
+    ],
+    "noEngineReferences": false
+}

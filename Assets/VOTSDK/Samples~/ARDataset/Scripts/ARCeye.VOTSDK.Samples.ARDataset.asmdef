@@ -1,0 +1,17 @@
+{
+    "name": "ARCeye.VOTSDK.Samples.ARDataset",
+    "rootNamespace": "",
+    "references": [
+        "ARCeye.VOTSDK",
+        "ARCeye.Dataset.Decoder"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

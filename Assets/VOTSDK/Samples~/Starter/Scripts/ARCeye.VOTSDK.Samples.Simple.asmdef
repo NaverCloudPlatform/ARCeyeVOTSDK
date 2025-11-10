@@ -1,0 +1,16 @@
+{
+    "name": "ARCeye.VOTSDK.Samples.Simple",
+    "rootNamespace": "",
+    "references": [
+        "ARCeye.VOTSDK"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
